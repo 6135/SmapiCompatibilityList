@@ -16824,7 +16824,15 @@
 			"github": "atravita-mods/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "AtraCore" ] // dependency
+			"status": "workaround",
+			"summary": "use [Holiday Sales Continued](#) instead."
+		},
+		{
+			"name": "Holiday Sales Continued",
+			"author": "atravita, 6135",
+			"id": "6135.HolidaySales",
+			"nexus": 53521,
+			"github": "6135/StardewValleyMods"
 		},
 		{
 			"name": "Home Barista",
