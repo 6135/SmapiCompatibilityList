@@ -15246,7 +15246,6 @@
 			"github": "atravita-mods/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "AtraCore" ] // dependency
 			"status": "workaround",
 			"summary": "use [Giant Crop Fertilizer Continued](#) instead."
 		},
